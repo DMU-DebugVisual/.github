@@ -6,4 +6,4 @@
 https://respected-jitterbug-a9b.notion.site/Commit-Issue-PR-1bcdd1e1f08280db8de2c766a5892210?pvs=4
 
 
-# <a href="http://zivorp.com">Zivorp.com</a>
+# <a href="https://www.zivorp.com">Zivorp.com</a>

@@ -4,6 +4,3 @@
 
 - Commit, Issue, PR 작성 가이드: 
 https://respected-jitterbug-a9b.notion.site/Commit-Issue-PR-1bcdd1e1f08280db8de2c766a5892210?pvs=4
-
-
-# <a href="https://zivorp.com">Zivorp.com</a>

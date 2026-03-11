@@ -1,7 +1,7 @@
 # Debug_Visual
 
 배포링크 : https://zivorp.com  
-시연영상 : https://youtu.be/e7gYvL_8_JQ
+시연영상 : https://youtu.be/e7gYvL_8_JQ   
 발표영상 : https://youtu.be/xKBZ3hl2ebo?si=sa11OSXW3djSMk75
 
 팀원 : 김인성, 채선웅, 윤동준, 박소정, 한민정

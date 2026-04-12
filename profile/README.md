@@ -1,6 +1,6 @@
 # Debug_Visual
 
-배포링크 : https://zivorp.com  
+배포링크 : https://zivorp.com  (frontend만 올라가 있는 상태)
 시연영상 : https://youtu.be/e7gYvL_8_JQ   
 발표영상 : https://youtu.be/xKBZ3hl2ebo?si=sa11OSXW3djSMk75
 

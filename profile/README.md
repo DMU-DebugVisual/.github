@@ -1,7 +1,7 @@
 # Debug_Visual
 
 배포링크 : https://zivorp.com  (백엔드서버는 작동중 X, 도메인만료)   
-배포링크(신규) : https://zivorp.kro.kr
+배포링크(신규) : https://zivorp.kro.kr   
 시연영상 : https://youtu.be/e7gYvL_8_JQ   
 발표영상 : https://youtu.be/xKBZ3hl2ebo?si=sa11OSXW3djSMk75
 

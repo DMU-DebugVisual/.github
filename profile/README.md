@@ -13,6 +13,7 @@
   <a href="https://zivorp.kro.kr"><img src="https://img.shields.io/badge/Live-zivorp.kro.kr-4B2ED8?style=for-the-badge" alt="Live" /></a>
   <a href="https://youtu.be/e7gYvL_8_JQ"><img src="https://img.shields.io/badge/Demo-시연영상-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo" /></a>
   <a href="https://youtu.be/xKBZ3hl2ebo"><img src="https://img.shields.io/badge/Presentation-발표영상-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Presentation" /></a>
+  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12551263"><img src="https://img.shields.io/badge/Paper-대한전자공학회%202025-1F6FEB?style=for-the-badge" alt="Paper" /></a>
 </p>
 
 ---
@@ -84,7 +85,7 @@ Monaco Editor 기반 웹 IDE에서 C · Python · Java 코드를 작성하고 �
 }
 ```
 
-`compare` · `assign` · `swap` · `call` · `return` · `loopIter` · `branch` · `ds_op` · `io` · `exception` 이벤트로 실행 과정을 기술하며, 시간·공간 복잡도 분석 결과도 함께 제공합니다. 시각화 로직이 특정 언어에 묶이지 않도록 **실행기와 렌더러를 이 스키마로 분리**한 것이 구조상 핵심입니다.
+`compare` · `assign` · `swap` · `call` · `return` · `loopIter` · `branch` · `ds_op` · `io` · `exception` 등 11종의 이벤트로 실행 과정을 기술하며, 시간·공간 복잡도 분석 결과도 함께 제공합니다. 시각화 로직이 특정 언어에 묶이지 않도록 **실행기와 렌더러를 이 스키마로 분리**한 것이 구조상 핵심이며, 이 설계는 [학술대회 논문](#publication)으로 발표했습니다.
 
 ### 4. Codecast — 실시간 코드 방송
 
@@ -161,6 +162,24 @@ WebSocket(STOMP) 기반으로 여러 명이 같은 코드를 동시에 편집하
 
 ---
 
+## Publication
+
+프로젝트의 핵심 설계인 DV-Flow 스키마와 웹 기반 재생 파이프라인을 학술대회 논문으로 발표했습니다.
+
+> ### 언어 비의존 코드 실행 시각화를 위한 최소 이벤트 스키마와 웹 기반 재생 파이프라인
+>
+> *DV-Flow: A Minimal Event Schema and Web-Based Replay Pipeline for Language-Agnostic Program Execution Visualization*
+>
+> 김인성, 한민정, 채선웅, 윤동준, 박소정, 황선희 — 동양미래대학교<br />
+> **2025년 대한전자공학회 추계학술대회 논문집**, pp. 1336–1339
+>
+> 4개의 최상위 키와 11종의 이벤트 타입만으로 프로그램 실행 흐름을 표현하는 최소 스키마를 정의하고,
+> 이를 웹에서 재생하는 파이프라인을 구현해 다중 언어 코드 시각화를 언어 비의존적으로 처리하는 방법을 제안합니다.
+>
+> [DBpia에서 논문 보기](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12551263)
+
+---
+
 ## Team
 
 | Name | GitHub | Focus |
@@ -186,5 +205,5 @@ WebSocket(STOMP) 기반으로 여러 명이 같은 코드를 동시에 편집하
 
 <p align="center">
   <img src="./assets/zivorp-symbol.png" alt="Zivorp" width="56" /><br />
-  <sub><b>DMU-DebugVisual</b> · 코드를 시각적으로 이해하는 새로운 방법</sub>
+  <sub><b>DMU-DebugVisual</b> · 동양미래대학교</sub>
 </p>
